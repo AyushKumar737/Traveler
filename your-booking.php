@@ -36,23 +36,38 @@ session_start();
             padding-top: 9px;
             border-radius: 6px;
             border: 0px;
-            height: 6vh;
-            width: 4vw;
+            height: 45px;
+            width: 70px;
             justify-content: center;
             color: white;
-            background: green;
+            background: #08b542;
             font-size: 1em;
         }
+
         .cancel {
             padding-top: 9px;
             border-radius: 6px;
             border: 0px;
-            height: 6vh;
-            width: 5vw;
+            height: 45px;
+            width: 80px;
             justify-content: center;
             color: white;
             background: red;
             font-size: 1em;
+        }
+
+        .your-booking {
+            width: 430px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 5px grey;
+            background: #BE93C5;
+            /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);
+            /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #7BC6CC, #BE93C5);
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
         }
     </style>
 
@@ -147,63 +162,63 @@ session_start();
                             // echo "<pre>";
                             // print_r($row);
                 ?>
-                            <div class="col-lg-4 col-md-6 mb-4">
-                                <div class="package-item bg-white mb-2">
-                                    <form action="user_booking_edit.php" id="contactForm" name="contactForm" class="contactForm" onsubmit="sendemail">
+                            <div class="col-lg-4 col-md-6 mb-4" style="margin-right:70px;">
+                                <div class="package-item bg-white mb-2 your-booking">
+                                    <form action="user_booking_edit.php" id="contactForm" name="contactForm" class="contactForm" onsubmit="sendemail ">
 
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="name" style="margin:10px;">Full Name</label>
-                                                    <input type="text" class="form-control" name="name" id="name" placeholder="Name" value="<?php echo $row['first_name']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="name" style="margin:10px; font-size: 1.1rem; ">Full Name</label>
+                                                    <input type="text" class="form-control" name="name" id="name" placeholder="Name" value="<?php echo $row['first_name']; ?>" style="border:0px; background:transparent; font-size: 1.2rem;" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <label class="label" for="subject" style="margin-left:10px;">Last Name</label>
-                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Last Name" value="<?php echo $row['last_name']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="subject" style="margin-left:10px; font-size: 1.1rem; ">Last Name</label>
+                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Last Name" value="<?php echo $row['last_name']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem;" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <label class="label" for="subject" style="margin-left:10px;">E-mail</label>
-                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Email" value="<?php echo $row['email']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="subject" style="margin-left:10px; font-size: 1.1rem; ">E-mail</label>
+                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Email" value="<?php echo $row['email']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem;" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <label class="label" for="subject" style="margin-left:10px;">Phone</label>
-                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Phone" value="<?php echo $row['mobile']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="subject" style="margin-left:10px; font-size: 1.1rem; ">Phone</label>
+                                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Phone" value="<?php echo $row['mobile']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem;" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="email" style="margin-left:10px;">Pakage</label>
-                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Pakage" value="<?php echo $row['select_package']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="email" style="margin-left:10px; font-size: 1.1rem; ">Pakage</label>
+                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Pakage" value="<?php echo $row['select_package']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem;" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="email" style="margin-left:10px;">Adults</label>
-                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Adults" value="<?php echo $row['adults']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="email" style="margin-left:10px; font-size: 1.1rem; ">Adults</label>
+                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Adults" value="<?php echo $row['adults']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem;" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="email" style="margin-left:10px;">Childrens</label>
-                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Childrens" value="<?php echo $row['child']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="email" style="margin-left:10px; font-size: 1.1rem; ">Childrens</label>
+                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Childrens" value="<?php echo $row['child']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem;" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="email" style="margin-left:10px;">Type of Room</label>
-                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Type of Room" value="<?php echo $row['room']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="email" style="margin-left:10px; font-size: 1.1rem; ">Type of Room</label>
+                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Type of Room" value="<?php echo $row['room']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem; width:220px" disabled>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <label class="label" for="email" style="margin-left:10px;">Type of Services</label>
-                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Type of Services" value="<?php echo $row['service']; ?>" style="border: 0px; background:transparent;" disabled>
+                                                    <label class="label" for="email" style="margin-left:10px; font-size: 1.1rem; ">Type of Services</label>
+                                                    <input type="email" class="form-control" name="email" id="email" placeholder="Type of Services" value="<?php echo $row['service']; ?>" style="border: 0px; background:transparent; font-size: 1.2rem; width:220px" disabled>
                                                 </div>
                                             </div>
                                             <!-- <div class="col-md-6">
@@ -217,10 +232,12 @@ session_start();
                                     <div class="p-4">
                                         <div class="border-top mt-4 pt-4">
                                             <div class="d-flex justify-content-between">
-                                                <!-- <td><a class="btn btn-success btn-sm edit" href="edited-package-booking.php?p_id=<?php //echo $row['p_id']; ?>">Edit</a></td> -->
+                                                <!-- <td><a class="btn btn-success btn-sm edit" href="edited-package-booking.php?p_id=<?php //echo $row['p_id']; 
+                                                                                                                                        ?>">Edit</a></td> -->
                                                 <?php echo "<td><a class='btn btn-success btn-sm edit' href='edited-package-booking.php?p_id=$row[p_id]'>Edit</a></td>" ?>
                                                 <?php echo " <td><a class='btn btn-danger btn-sm cancel' href='cancel_booking.php?p_id=$row[p_id]'>Cancel</a></td>" ?>
-                                                <!-- <td><a style="background:#dc3545; border:0px; font-size:1em;" class="btn btn-sm btn-dark rounded py-2 px-4" href="cancel_booking.php?p_id="<?php //echo $row['p_id']; ?>>Delete</a></td> -->
+                                                <!-- <td><a style="background:#dc3545; border:0px; font-size:1em;" class="btn btn-sm btn-dark rounded py-2 px-4" href="cancel_booking.php?p_id="<?php //echo $row['p_id']; 
+                                                                                                                                                                                                ?>>Delete</a></td> -->
                                             </div>
                                         </div>
                                     </div>
@@ -237,7 +254,7 @@ session_start();
 
                 ?>
 
-                
+
                 <!-- Footer Start -->
                 <div class="container-fluid bg-dark text-white-50 py-5 px-sm-3 px-lg-5" style="margin-top: 90px;">
                     <div class="row pt-5">
