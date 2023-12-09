@@ -1,0 +1,110 @@
+[25-Nov-2023 15:39:49 UTC] PHP Warning:  Use of undefined constant navbar - assumed 'navbar' (this will throw an Error in a future version of PHP) in /home/zsox77g0pmnr/public_html/project/package-details.php on line 55
+[25-Nov-2023 15:39:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/zsox77g0pmnr/public_html/project/package-details.php on line 55
+[25-Nov-2023 15:39:49 UTC] PHP Warning:  include(navbarphp): failed to open stream: No such file or directory in /home/zsox77g0pmnr/public_html/project/package-details.php on line 55
+[25-Nov-2023 15:39:49 UTC] PHP Warning:  include(): Failed opening 'navbarphp' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zsox77g0pmnr/public_html/project/package-details.php on line 55
+[25-Nov-2023 15:44:54 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package-details.php on line 76
+[25-Nov-2023 15:44:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/zsox77g0pmnr/public_html/project/package-details.php on line 79
+[25-Nov-2023 15:48:45 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package-details.php on line 76
+[25-Nov-2023 15:48:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/zsox77g0pmnr/public_html/project/package-details.php on line 79
+[25-Nov-2023 15:52:55 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:52:55 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:52:55 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:52:55 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:52:55 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:52:55 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:38 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:38 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:38 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:38 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:38 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:38 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:40 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:40 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:40 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:40 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:40 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:53:40 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:55:25 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:55:25 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:55:25 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:55:25 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:55:25 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:55:25 UTC] PHP Notice:  Undefined index: id in /home/zsox77g0pmnr/public_html/project/package.php on line 123
+[25-Nov-2023 15:57:49 UTC] PHP Notice:  Undefined index: Id in /home/zsox77g0pmnr/public_html/project/package-details.php on line 102
+[25-Nov-2023 15:57:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/zsox77g0pmnr/public_html/project/package-details.php on line 105
+[25-Nov-2023 15:58:13 UTC] PHP Notice:  Undefined index: Id in /home/zsox77g0pmnr/public_html/project/package-details.php on line 102
+[25-Nov-2023 15:58:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/zsox77g0pmnr/public_html/project/package-details.php on line 105
+[25-Nov-2023 16:19:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:19:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:19:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:19:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:19:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:21:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:24:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:24:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:29:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:29:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:30:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 123
+[25-Nov-2023 16:30:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 124
+[25-Nov-2023 16:31:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 124
+[25-Nov-2023 16:31:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/zsox77g0pmnr/public_html/project/your-booking.php on line 124
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 24
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 25
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 39
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: old_image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 40
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: image3 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 53
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: old_image3 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 54
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: image4 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 68
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: old_image4 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 69
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: image5 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 83
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: old_image5 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 84
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: image6 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 98
+[09-Dec-2023 00:42:16 UTC] PHP Notice:  Undefined index: old_image6 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 99
+[09-Dec-2023 00:42:16 UTC] PHP Warning:  unlink('img/'.1702059761.png): No such file or directory in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 121
+[09-Dec-2023 00:48:53 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 00:48:53 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 38
+[09-Dec-2023 00:50:21 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 00:50:21 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 38
+[09-Dec-2023 00:50:38 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 00:50:38 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 38
+[09-Dec-2023 00:51:04 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 00:51:04 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 38
+[09-Dec-2023 00:51:31 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 00:51:31 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 38
+[09-Dec-2023 00:51:31 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 43
+[09-Dec-2023 00:51:31 UTC] PHP Notice:  Undefined variable: update_filename1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 52
+[09-Dec-2023 01:00:03 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 01:00:03 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 38
+[09-Dec-2023 01:00:03 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 43
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 37
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 42
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined index: image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 64
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined index: old_image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 65
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined index: old_image3 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 90
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined index: old_image4 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 115
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined index: old_image5 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 141
+[09-Dec-2023 01:16:52 UTC] PHP Notice:  Undefined index: old_image6 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 159
+[09-Dec-2023 01:16:52 UTC] PHP Warning:  unlink('img/'.1702082536.png): No such file or directory in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 203
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 15
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 37
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 42
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined index: image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 64
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined index: old_image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 65
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 70
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined index: old_image3 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 90
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 95
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined index: old_image4 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 115
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 120
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined index: old_image5 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 141
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 146
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined index: old_image6 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 159
+[09-Dec-2023 01:22:25 UTC] PHP Notice:  Undefined variable: targetDir in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 165
+[09-Dec-2023 01:27:01 UTC] PHP Notice:  Undefined index: old_image1 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 37
+[09-Dec-2023 01:27:01 UTC] PHP Notice:  Undefined index: image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 64
+[09-Dec-2023 01:27:01 UTC] PHP Notice:  Undefined index: old_image2 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 65
+[09-Dec-2023 01:27:01 UTC] PHP Notice:  Undefined index: old_image3 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 90
+[09-Dec-2023 01:27:01 UTC] PHP Notice:  Undefined index: old_image4 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 115
+[09-Dec-2023 01:27:01 UTC] PHP Notice:  Undefined index: old_image5 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 141
+[09-Dec-2023 01:27:01 UTC] PHP Notice:  Undefined index: old_image6 in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 159
+[09-Dec-2023 01:27:01 UTC] PHP Warning:  unlink('img/'.Screenshot from 2023-09-03 08-13-20.png): No such file or directory in /home/zsox77g0pmnr/public_html/project/admin-table-package-edit.php on line 203
